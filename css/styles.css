@@ -9,7 +9,6 @@ ul, li {
     flex-wrap: wrap;
     gap: 24px 24px;
     justify-content: center;
-    margin-top: 84px;
 }
 
 .gallery-image {
